@@ -4,7 +4,7 @@ const form = document.querySelector("#form");
 const nameUser = document.querySelector("#name-input");
 const emailUser = document.querySelector("#e-mail-input");
 const table = document.querySelector("tbody");
-const button = document.querySelector("#cadastrar");
+const button = document.querySelector("#register");
 
 let userId;
 
